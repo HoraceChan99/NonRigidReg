@@ -1,6 +1,7 @@
 **iGAMSI analysis pipeline**
 ---------
 The iGAMSI-related analysis pipeline can be found in the 'iGAMSI-analysis' folder
+
 (or https://github.com/HoraceChan99/iGAMSI)
 
 **NonRigid Registration**
